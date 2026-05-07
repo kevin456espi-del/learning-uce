@@ -44,6 +44,11 @@
     #
     # Evaluación:
     # El taller será evaluado en clase mediante la rúbrica de evaluación (ver Anexo 4).
+
+
+#GRUPO 1 :D
+#MARILYN COMASICIN, MARVIN LOOR, KEVIN ESPINOSA, AARON GUERRA
+#SEGUNDO SEMESTRE INFORMATICA
 def calculadora():
     print("--- Calculadora Simple ---")
     
